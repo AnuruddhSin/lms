@@ -18,7 +18,7 @@ const Dashboard = () => {
 
   console.log(totalEntrolledStudents)
   return (
-    <div className="min-h-screen bg-gray-100 p-4">
+    <div className="min-h-screen w-full bg-gray-100 p-4">
       <div className="container mx-auto rounded-lg shadow-md p-6 bg-white">
         <h1 className="text-3xl font-bold mb-6 text-center text-gray-900">Admin Dashboard</h1>
         <div className="grid grid-cols-4 sm:grid-cols-3 lg:grid-cols-4 gap-6">
